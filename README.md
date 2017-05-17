@@ -1,6 +1,3 @@
-TAGME V1.1 - HOW TO
-===================
-
 REQUIREMENTS
 ============
 
